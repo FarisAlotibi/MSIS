@@ -1,0 +1,1 @@
+Algorithm that solves traveling salesman problem using bruteforce approach.
